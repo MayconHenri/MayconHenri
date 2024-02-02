@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Maycon Henrique</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
+<h1 align="center">Oi 👋, sou Maycon Henrique</h1>
+<h3 align="center">Apaixonado por tecnologia e desenvolvimento full stack</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, PowerBI e SQL**
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **Python, SQL, JavaScript, HTML e CSS**
 
-- 💬 Me pergunte sobre **Ciência de dados**
+- 💻 Explorando o mundo do desenvolvimento **Full Stack**
 
 - 📫 Você me acha através **mayconoficial14@hotmail.com**
 
