@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **Python, SQL, NodeJS, HTML, CSS e JavaScript**
 
-- 💻 Explorando o mundo do desenvolvimento **Full Stack**
+- 💻 Explorando o mundo do desenvolvimento **Fullstack Developer**
 
 - 📫 Você me acha através **mayconoficial14@hotmail.com**
 
